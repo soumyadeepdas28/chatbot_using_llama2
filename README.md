@@ -1,3 +1,2 @@
 # Chatbot_using_Llama2
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@soumyadeepdas295/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@soumyadeepdas295/building-a-chatgpt-like-system-with-llama-2-in-an-hour-2e434f435461" alt="building-a-chatgpt-like-system-with-llama-2-in-an-hour-2e434f435461">
-
+- [![soumyadeepdas28's GitHub | Stats](https://stats.quine.sh/soumyadeepdas28/github?theme=light)](https://quine.sh)
