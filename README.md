@@ -1,2 +1,2 @@
 # Chatbot_using_Llama2
-- [![soumyadeepdas28's GitHub | Stats](https://stats.quine.sh/soumyadeepdas28/github?theme=light)](https://quine.sh)
+- [![]((https://medium.com/@soumyadeepdas295/building-a-chatgpt-like-system-with-llama-2-in-an-hour-2e434f435461)https://medium.com/@soumyadeepdas295/building-a-chatgpt-like-system-with-llama-2-in-an-hour-2e434f435461)](https://medium.sh)
